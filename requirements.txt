@@ -1,8 +1,6 @@
 streamlit
-pillow
-opencv-python
+opencv-python-headless
+Pillow
 transformers
-huggingface_hub
 torch
-torchvision
-numpy
+huggingface_hub
